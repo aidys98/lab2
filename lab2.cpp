@@ -5,7 +5,10 @@ int main()
 {
   int a,b;
   float x,s;
-
+  printf("Vvedite summu vklada u cpok: ");
+  scanf("%d",&a);
+  scanf("%d",&b);
+  
 
 
 
